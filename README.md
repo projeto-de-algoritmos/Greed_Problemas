@@ -1,6 +1,6 @@
 # Questões do LeetCode
 
-**Número da Lista**: 3
+**Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Greed (Ambiciosos)<br>
 
 ## Alunos
