@@ -15,6 +15,8 @@ Este repositório tem como objetivo compilar a resolução de alguns problemas e
 Exercícios Solucionados:
 
 - [517 - Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) | **Difícil**
+- [871 - Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | **Difícil**
+
 
 ## Screenshots
 
@@ -28,6 +30,13 @@ O algoritmo utilizado pode ser considerado ambicioso uma vez que tenta otimizar 
 
 ![Imagem 517](./img/517.png)
 
+### 871 - Minimum Number of Refueling Stops
+
+Para ver a solução dessa questão clicar [aqui](./exercicios/871.py).
+
+O algoritmo utilizado pode ser considerado ambicioso pois no contexto de minimizar as paradas para reabastecimento de combustível em uma rota, ele sempre opta por reabastecer no posto de gasolina mais vantajoso em termos de combustível disponível. 
+
+![Imagem 871](./img/871.png)
 
 ## Instalação 
 **Linguagem**: Python 3<br>
