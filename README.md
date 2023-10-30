@@ -9,21 +9,42 @@
 | 21/1029559  | Rafael Brito Bosi Rodrigues |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este repositório tem como objetivo compilar a resolução de alguns problemas encontrados na plataforma [LeetCode](https://leetcode.com/), tais problemas estão dentro do escopo do conteúde abrangido por Greed (Algoritmos Ambiciosos).
+
+Exercícios Solucionados:
+
+- [517 - Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) | **Difícil**
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+Seguem aqui os screenshots das questões solucionadas, a seta de cada print serve apenas para apontar para o indicador que demonstra que o problema foi resolvido com sucesso.
+
+### 517 - Super Washing Machines
+
+Para ver a solução dessa questão clicar [aqui](./exercicios/517.py).
+
+O algoritmo utilizado pode ser considerado ambicioso uma vez que tenta otimizar a distribuição de roupas nas máquinas de forma a minimizar o número de movimentos necessários. Além disso, determina o número máximo de roupas que podem ser movidas em um único movimento.
+
+![Imagem 517](./img/517.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python 3<br>
+
+Como o LeetCode é uma plataforma online que roda na web, não é necessário baixar nenhum tipo de dependência.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+Para testar as soluções aqui propostas basta ir até o arquivo de ["exercicios"](./exercicios/), copiar o código da questão desejada, navegar até o link da questão que pretende testar e subimeter o código ao juiz online.
+
+Importante ressaltar que é necessário selecionar a linguagem "Python3" na plataforma, caso contrário, o código não irá funcionar.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui]().
+
+OBS: O arquivo de vídeo esta com a extensão .mp4, o que torna necessário o download do arquivo para assistir ao vídeo.
 
 
 
