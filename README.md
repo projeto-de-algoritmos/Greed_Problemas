@@ -16,6 +16,7 @@ Exercícios Solucionados:
 
 - [517 - Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) | **Difícil**
 - [871 - Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | **Difícil**
+- [435 - Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | **Média**
 
 
 ## Screenshots
@@ -37,6 +38,16 @@ Para ver a solução dessa questão clicar [aqui](./exercicios/871.py).
 O algoritmo utilizado pode ser considerado ambicioso pois no contexto de minimizar as paradas para reabastecimento de combustível em uma rota, ele sempre opta por reabastecer no posto de gasolina mais vantajoso em termos de combustível disponível. 
 
 ![Imagem 871](./img/871.png)
+
+### 435 - Non-overlapping Intervals
+
+Para ver a solução dessa questão clicar [aqui](./exercicios/435.py).
+
+O algoritmo utilizado pode ser considerado ambicioso pois no contexto deste código, o algoritmo tenta minimizar a contagem de remoções de intervalos para que os intervalos restantes não se sobreponham.
+
+O algoritmo percorre os intervalos, classificando-os por ordem decrescente de início e, em seguida, adiciona intervalos à lista "result" de forma que haja o mínimo de sobreposições. 
+
+![Imagem 435](./img/435.png)
 
 ## Instalação 
 **Linguagem**: Python 3<br>
