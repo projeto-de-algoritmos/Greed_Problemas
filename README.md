@@ -62,7 +62,7 @@ Importante ressaltar que é necessário selecionar a linguagem "Python3" na plat
 
 ## Outros 
 
-Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui]().
+Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui](./video/Gravação%20-%20Greed.mp4).
 
 OBS: O arquivo de vídeo esta com a extensão .mp4, o que torna necessário o download do arquivo para assistir ao vídeo.
 
